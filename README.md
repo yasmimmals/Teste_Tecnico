@@ -6,7 +6,7 @@ O cenário pedia algo para uma empresa com gente no Brasil e na Europa, parte re
 
 **Stack:** FastAPI + SQLAlchemy + SQLite no backend, React + TypeScript (Vite) no front.
 
-> O desafio menciona .NET e Angular como stack da empresa. Escolhi Python e React porque <!-- seu motivo aqui -->. Tentei deixar a API desacoplada do front e o banco configurável por variável de ambiente, então trocar qualquer um dos lados não deveria ser um problema.
+> O desafio menciona .NET e Angular como stack da empresa. Escolhi Python e React porque são stacks que tenho mais conhecimento e com python da para fazer várias integrações. Tentei deixar a API desacoplada do front e o banco configurável por variável de ambiente, então trocar qualquer um dos lados não deveria ser um problema.
 
 ## Rodando
 
